@@ -1,4 +1,5 @@
 daily-practice
 ==============
 
-Daily practice
+Daily practice, the learning.
+
